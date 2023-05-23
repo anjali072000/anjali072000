@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali072000" alt="anjali072000" /></a> </p>
 
 - 🔭 I’m currently studying in **National Institute of Technology, Silchar**
